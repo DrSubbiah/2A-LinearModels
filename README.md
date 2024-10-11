@@ -34,9 +34,9 @@ Once the model is fitted, several tasks are necessary to evaluate the statistica
 Make sure you have the following installed:
 
 - Python 3.x
-- Libraries: `pandas`, `numpy`, `statsmodels`, `matplotlib`
+- Libraries: `pandas`, `numpy`, `sklearn`, `matplotlib`
 
 You can install the required libraries using pip:
 
 ```bash
-pip install pandas numpy statsmodels matplotlib
+pip install pandas numpy sklearn matplotlib
